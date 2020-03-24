@@ -1,0 +1,36 @@
+.container {
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: white;
+    overflow: auto;
+}
+
+.header {
+    width: 1000px;
+    height: 60px;
+    background-color: tomato;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.child {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+}
+.fix {
+    margin-top: 20px;
+    height: 70%;
+    overflow: auto;
+}

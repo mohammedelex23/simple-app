@@ -1,0 +1,41 @@
+.child {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+label {
+    width: 70%;
+    font-size: 22px;
+    color: gray;
+}
+button {
+    padding: 7px;
+    font-size: 17px;
+}
+
+.edit {
+    background-color: rgb(94, 89, 89);
+    color: white;
+    border: none;
+    width: 210px;
+}
+
+.group {
+    display: flex;
+    width: 60%;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.delete {
+    background-color: tomato;
+    color: white;
+    border: none;
+    width: 90px;
+}

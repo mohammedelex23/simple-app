@@ -1,0 +1,31 @@
+input {
+    padding: 7px;
+    font-size: 17px;
+}
+
+input[type=text] {
+    width: 60%;
+    background-color: lightgray;
+    border: none;
+}
+
+input[type=submit] {
+    background-color: rgb(39, 146, 39);
+    color: white;
+    border: none;
+    width: 100px;
+}
+
+.child {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.child > * {
+    flex: 1 0 auto;
+}
+
