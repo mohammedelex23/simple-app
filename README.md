@@ -1,3 +1,12 @@
+Simple-app
+This app is build for learning purposes.
+How to run it:
+1-download the file from github
+2-open the cmd or terminall on the project directory
+3-type npm install and hit enter
+4-go to your browser and type on the address bar: http://localhost:5000 and press enter
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
