@@ -1,6 +1,6 @@
-### Simple-app
+#### Simple-app
 This app is build for learning purposes.
-How to run it:
+## How to run it:
 1-download the file from github
 2-open the cmd or terminall on the project directory
 3-type npm install and hit enter
